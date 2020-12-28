@@ -1,6 +1,6 @@
 # main text of home
 name: Ayush Maganahalli
-bio: EECS and Applied Math at UC Berkeley
+bio: 4th Year EECS/Applied Math @ UC Berkeley
 
 # twitter summary info
 description: Quick personal website
@@ -83,7 +83,7 @@ pagination:
 projects: false
 
 # if you don't need "about" or "blog", comment them out below
-about: false
+about: true
 blog: false
 
 # do you want to show the "read time" of the posts?
